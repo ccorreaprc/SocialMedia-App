@@ -34,7 +34,7 @@ class _LoginState extends State<Login> {
               height: 170.0,
               width: MediaQuery.of(context).size.width,
               child: Image.asset(
-                'assets/images/login.png',
+                'assets/images/logo.png',
               ),
             ),
             SizedBox(height: 10.0),
